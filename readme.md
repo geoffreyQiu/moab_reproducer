@@ -1,4 +1,4 @@
-### reproducer for MOAB
+### Reproducer for MOAB
 
 #### build
 
